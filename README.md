@@ -1,3 +1,8 @@
+# NOTE
+
+**This repository was moved to [official repository](https://github.com/holiday-jp/holiday_jp-rust).**
+
+
 # holiday_jp-rust
 
 [![Build Status](https://travis-ci.org/camelmasa/holiday_jp-rust.svg?branch=master)](https://travis-ci.org/camelmasa/holiday_jp-rust)
